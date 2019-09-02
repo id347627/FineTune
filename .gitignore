@@ -1,2 +1,3 @@
 # ide settings folder
-.idea/
+.idea
+.idea/*
